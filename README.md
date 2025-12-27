@@ -45,6 +45,39 @@ Próximos passos:
    git clone https://github.com/seuusuario/BI-SellInSellOut.git
 
    
----
+## Modelo Estrela
 
+```text
+                           +------------------+
+                           |   DIM_PRODUTOS   |
+                           |------------------|
+                           | ID_PRODUTO       |
+                           | PRODUTO          |
+                           | SKU              |
+                           +------------------+
+                                   |
+                                   |
++------------------+        +------------------+        +------------------+
+| DIM_DISTRIBUIDOR |        |    TB_VENDAS    |        |   DIM_REGIAO     |
+|------------------|        |-----------------|        |------------------|
+| ID_DISTRIBUIDOR  | <----> | DISTRIBUIDOR    | <----> | ID_REGIAO        |
+| DISTRIBUIDOR     |        | REGIAO          |        | REGIAO           |
++------------------+        | PRODUTO, SKU    |        +------------------+
+                            | DATA            |
+                            | QUANTIDADE      |
+                            | VALOR           |
+                            +-----------------+
+                                   |
+                                   |
+                           +------------------+
+                           |   DIM_DATAS      |
+                           |------------------|
+                           | ID_DATA          |
+                           | DATA             |
+                           | ANO              |
+                           | MES              |
+                           | NOME_MES         |
+                           | TRIMESTRE        |
+                           | DIA_SEMANA       |
+                           +------------------+
                            
