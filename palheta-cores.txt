@@ -1,0 +1,45 @@
+# Paleta de Cores - Dashboard Sell-In Sell-Out
+
+[CORES PRINCIPAIS]
+Azul Escuro       - RGB(27, 38, 44)     - #1B262C
+Verde Petróleo    - RGB(50, 130, 126)   - #32827E
+Cinza Neutro Claro- RGB(229, 229, 229)  - #E5E5E5
+
+[CORES DE ALERTA E DESTAQUE]
+Laranja Claro     - RGB(244, 162, 97)   - #F4A261
+Vermelho Claro    - RGB(231, 111, 81)   - #E76F51
+Cinza Escuro      - RGB(85, 85, 85)     - #555555
+
+[CORES PARA GRÁFICOS]
+Azul Claro        - RGB(102, 153, 204)  - #6699CC
+Verde Claro       - RGB(102, 204, 153)  - #66CC99
+Azul Médio        - RGB(70, 130, 180)   - #4682B4
+Cinza Médio       - RGB(180, 180, 180)  - #B4B4B4
+
+# Aplicação por Página
+
+Resumo Executivo:
+- KPIs com Azul Escuro, Verde Petróleo, Laranja, Vermelho
+- Gráfico de linhas: Azul Claro (Sell-In) e Verde Claro (Sell-Out)
+
+Por Produto:
+- Gráfico de barras: Azul Médio
+- Tabela dinâmica: Cinza Neutro
+- GAP: Cinza Escuro e Vermelho para negativo
+
+Por Canal:
+- Gráfico de rosca: Azul Escuro, Verde Petróleo, Cinza Médio
+- Tabela de conversão: Verde Claro
+
+Por Região:
+- Mapa de calor: tons de Azul Escuro → Azul Claro
+- Estoque parado: Laranja
+
+Distribuidores:
+- Gráfico de barras: Azul Escuro
+- Alertas de ruptura: Vermelho
+- Destaques: Verde Petróleo
+
+Detalhado:
+- Tabela dinâmica com filtros: Cinza Neutro
+- Gráficos auxiliares: Azul Claro e Verde Claro

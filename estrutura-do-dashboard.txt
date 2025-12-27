@@ -1,0 +1,36 @@
+📊 Estrutura do Painel Sell-In / Sell-Out
+1. Resumo Executivo
+• 	KPIs principais em cards:
+• 	Sell-In Total
+• 	Sell-Out Total
+• 	Gap (%)
+• 	Cobertura de Estoque (dias)
+• 	Ruptura (%)
+• 	Gráfico de linhas: evolução mensal Sell-In vs Sell-Out
+• 	Gráfico de rosca/pizza: participação por categoria
+• 	Tabela resumo: produtos principais com Sell-In, Sell-Out e Gap
+
+2. Por Produto
+• 	Ranking de produtos (gráfico de barras)
+• 	Tabela dinâmica: Produto  Sell-In  Sell-Out  Gap (%)
+• 	Gráfico empilhado: categorias de produto
+
+3. Por Canal
+• 	Gráfico de barras: Varejo, E-commerce, Atacado
+• 	Gráfico de rosca: participação percentual por canal
+• 	Tabela: conversão Sell-In → Sell-Out por canal
+
+4. Por Região
+• 	Mapa de calor do Brasil por estado/região
+• 	Gráfico de barras: discrepância Sell-In vs Sell-Out por região
+• 	Tabela: estoque parado e rupturas regionais
+
+5. Distribuidores
+• 	Ranking de distribuidores (gráfico de barras)
+• 	Tabela: Distribuidor  Sell-In  Sell-Out  Gap (%)  Estoque parado
+• 	Alertas de ruptura destacados em vermelho
+
+6. Detalhado
+• 	Tabela completa com filtros avançados:
+• 	Produto  Canal  Região  Distribuidor  Sell-In  Sell-Out  Gap (%)  Estoque (dias)
+• 	Gráficos auxiliares pequenos para detalhamento

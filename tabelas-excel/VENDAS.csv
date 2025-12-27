@@ -1,0 +1,16 @@
+﻿Data;Produto;SKU;Quantidade;Valor;Distribuidor;Região
+01/01/2023;Produto B;SKU1003;183694;182410;Distribuidor X;Sudeste
+01/02/2023;Produto G;SKU1006;117194;105232;Distribuidor Y;Sul
+01/03/2023;Produto J;SKU1004;147221;156452;Distribuidor Z;Nordeste
+01/04/2023;Produto E;SKU1001;85311;57492;Distribuidor W;Norte
+01/05/2023;Produto H;SKU1005;108693;112297;Distribuidor V;Centro-Oeste
+01/06/2023;Produto I;SKU1002;105658;96716;Distribuidor U;Sudeste
+01/07/2023;Produto C;SKU1001;164654;138881;Distribuidor T;Sul
+01/08/2023;Produto G;SKU1003;91394;97838;Distribuidor S;Nordeste
+01/09/2023;Produto J;SKU1002;160038;148261;Distribuidor R;Norte
+01/10/2023;Produto F;SKU1005;153969;152953;Distribuidor Q;Centro-Oeste
+01/11/2023;Produto H;SKU1004;103483;96324;Distribuidor P;Sudeste
+01/12/2023;Produto J;SKU1001;172067;180482;Distribuidor O;Sul
+01/01/2024;Produto D;SKU1001;189109;185692;Distribuidor N;Nordeste
+01/02/2024;Produto H;SKU1002;152409;156734;Distribuidor M;Norte
+01/03/2024;Produto F;SKU1001;112606;111072;Distribuidor L;Centro-Oeste
